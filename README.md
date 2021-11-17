@@ -26,9 +26,9 @@ the following questions:
 
 Form:
 1. Jupyter and Markdown preferred for analysis
-1. The scripts can be in separate files or as part of the notebook depending on the methods
+2. The scripts can be in separate files or as part of the notebook depending on the methods
 chosen
-1. Please present the final results and the most important conclusions in the form of a
+3. Please present the final results and the most important conclusions in the form of a
 presentation (e.g. Google slides)
 
 <br/>
@@ -79,12 +79,9 @@ WIP
 
 WIP
 
-In this approach we are considering all  .....
-
 <br/>
 
 **Top 5 Insights**
-
 
 WIP
 
